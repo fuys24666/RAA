@@ -61,4 +61,5 @@ The environment outputs synchronized multivariate time-series suitable for train
 Example:
 
 ```bash
+python shockwave_env_v2.py
 python train_optuna_self.py
